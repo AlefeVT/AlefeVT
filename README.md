@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🌐 Linguagens: **JAVASCRIPT, TYPESCRIPT, PHP, PYTHON**
+  🌐 Linguagens: ** JAVASCRIPT, TYPESCRIPT, PHP, PYTHON **
 </p>
 
 <p align="left">
-  💼 Ferramentas: **NEXT.JS, REACT, TAILWIND CSS, SHADCN/UI, NODE.JS, PRISMA, DRIZZLE, DOCKER, MYSQL, POSTGRESSQL, BOOTSTRAP**
+  💼 Ferramentas: ** NEXT.JS, REACT, TAILWIND CSS, SHADCN/UI, NODE.JS, PRISMA, DRIZZLE, DOCKER, MYSQL, POSTGRESSQL, BOOTSTRAP **
 </p>
 
 <p align="left">
