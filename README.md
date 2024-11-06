@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/alefevianat/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/559999927682" title="WhatsApp">
+  <a href="https://wa.me/55339999927682" title="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://www.instagram.com/alefe.vt/" title="Instagram">
